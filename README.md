@@ -31,7 +31,7 @@ I'm thrilled to present my project, a Doctors Portal website developed from scra
 
 6. **📊 Doctor Availability:**  Doctors can update their availability in real-time, ensuring users have the most accurate appointment options.
 
-7. **APIs:** Utilize RESTful APIs to retrieve product lists and details programmatically.
+7. **APIs:** Utilize RESTful APIs to retrieve appointment lists and details programmatically.
 
 ## Project Installation
 
