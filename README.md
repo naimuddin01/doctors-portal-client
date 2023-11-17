@@ -1,6 +1,6 @@
 # Doctors Portal
 
-An doctors portal platform developed with React and React Rest Framework, providing a smooth appointments experience for users. Features include user registration and login, doctors available time browsing, cart management, secure checkout with stripe, and order history tracking in customer profiles. Even guest users can doctors available time see hassle-free. Also, doctors lists and details can be fetched with REST APIs.
+An doctors portal platform developed with React and React Rest Framework, providing a smooth appointments experience for users. Features include user registration and login, doctors available time browsing, cart management, secure checkout with appointment history tracking in user profiles. Even guest users can doctors available time see hassle-free. Also, doctors lists and details can be fetched with REST APIs.
 
 ## Table of Contents
 
