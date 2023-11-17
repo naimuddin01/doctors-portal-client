@@ -27,13 +27,11 @@ I'm thrilled to present my project, a Doctors Portal website developed from scra
 
 4. **👩‍⚕️ Doctor Categories:** The website categorizes doctors by their specialties, ensuring users can find the right healthcare professional for their needs.
 
-5. **Order History:** Completed orders are automatically logged in the user's profile. Easily track past orders and reorder favorite items.
+5. **📅 Appointment Overview:** Users have access to a user-friendly dashboard displaying all their appointments in one place, simplifying the management of their medical schedule.
 
-6. **📅 Appointment Overview:** Users have access to a user-friendly dashboard displaying all their appointments in one place, simplifying the management of their medical schedule.
+6. **📊 Doctor Availability:**  Doctors can update their availability in real-time, ensuring users have the most accurate appointment options.
 
-7. **📊 Doctor Availability:**  Doctors can update their availability in real-time, ensuring users have the most accurate appointment options.
-
-8. **APIs:** Utilize RESTful APIs to retrieve product lists and details programmatically.
+7. **APIs:** Utilize RESTful APIs to retrieve product lists and details programmatically.
 
 ## Project Installation
 
